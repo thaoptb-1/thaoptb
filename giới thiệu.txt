@@ -1,0 +1,129 @@
+<div class=" col-25"/>
+                        
+                        <div class="prod"/>
+                        <div class="name "> SAUVAGE </div>
+                        <a href="detal.html"><img class="image" src="SAUVAGE.jpg" alt="" width="150px" height="100px"/> 
+
+                        <DIV class="price"> &100 </DIV>
+                        <div class="icons"> 
+                            <img src="heart.png" alt="" width="25px"/>
+                            <img src="letter.png" alt="" width="25px"/>
+                            <img src="basket.jpeg" alt="" width="25px"/>
+                        </div>
+                            <img class="new-icon" src="icon.png" alt="" width="50"/>
+                        </div>
+                        </div>
+                        </div>
+                       </div> 
+                      </DIV>
+                      <div class=" col-25"/>
+                        <div class="prod"/>
+                        <div class="name "> SAUVAGE </div>
+                        <a href="detal.html"> <img class="image" src="nước hao.jpg"/> 
+                        <DIV class="price"> &100 </DIV>
+                        <div class="icons"> 
+                            <img src="heart.png" alt="" width="25px"/>
+                            <img src="letter.png" alt="" width="25px"/>
+                            <img src="basket.jpeg" alt="" width="25px"/>
+                        </div>
+                            <img class="new-icon" src="icon.png" alt="" width="50"/>
+                        </div>
+                        </div>
+                        </div>
+                       </div> 
+                      </DIV>
+                      <div class=" col-25"/>
+                        <div class="prod"/>
+                        <div class="name "> SAUVAGE </div>
+                        <img class="image" src="enchanter.png"/> 
+                        <DIV class="price"> &100 </DIV>
+                        <div class="icons"> 
+                            <img src="heart.png" alt="" width="25px"/>
+                            <img src="letter.png" alt="" width="25px"/>
+                            <img src="basket.jpeg" alt="" width="25px"/>
+                        </div>
+                            <img class="new-icon" src="icon.png" alt="" width="50"/>
+                        </div>
+                        </div>
+                        </div>
+                       </div> 
+                      </DIV>
+                      <div class=" col-25"/>
+                        <div class="prod"/>
+                        <div class="name "> SAUVAGE </div>
+                        <img class="image" src="5.png"/> 
+                        <DIV class="price"> &100 </DIV>
+                        <div class="icons"> 
+                            <img src="heart.png" alt="" width="25px"/>
+                            <img src="letter.png" alt="" width="25px"/>
+                            <img src="basket.jpeg" alt="" width="25px"/>
+                        </div>
+                            <img class="new-icon" src="icon.png" alt="" width="50"/>
+                        </div>
+                        </div>
+                        </div>
+                       </div> 
+                      </DIV>
+                      <div class=" col-25"/>
+                        <div class="prod"/>
+                        <div class="name "> SAUVAGE </div>
+                        <img class="image" src="gucci.jpg"/> 
+                        <DIV class="price"> &100 </DIV>
+                        <div class="icons"> 
+                            <img src="heart.png" alt="" width="25px"/>
+                            <img src="letter.png" alt="" width="25px"/>
+                            <img src="basket.jpeg" alt="" width="25px"/>
+                        </div>
+                            <img class="new-icon" src="icon.png" alt="" width="50"/>
+                        </div>
+                        </div>
+                        </div>
+                       </div> 
+                      </DIV>
+                      <div class=" col-25"/>
+                        <div class="prod"/>
+                        <div class="name "> SAUVAGE </div>
+                        <img class="image" src="6.jpg"/> 
+                        <DIV class="price"> &100 </DIV>
+                        <div class="icons"> 
+                            <img src="heart.png" alt="" width="25px"/>
+                            <img src="letter.png" alt="" width="25px"/>
+                            <img src="basket.jpeg" alt="" width="25px"/>
+                        </div>
+                            <img class="new-icon" src="icon.png" alt="" width="50"/>
+                        </div>
+                        </div>
+                        </div>
+                       </div> 
+                      </DIV>
+                      <div class=" col-25"/>
+                        <div class="prod"/>
+                        <div class="name "> SAUVAGE </div>
+                        <img class="image" src="7.jpg"/> 
+                        <DIV class="price"> &100 </DIV>
+                        <div class="icons"> 
+                            <img src="heart.png" alt="" width="25px"/>
+                            <img src="letter.png" alt="" width="25px"/>
+                            <img src="basket.jpeg" alt="" width="25px"/>
+                        </div>
+                            <img class="new-icon" src="icon.png" alt="" width="50"/>
+                        </div>
+                        </div>
+                        </div>
+                       </div> 
+                      </DIV>
+                      <div class=" col-25">
+                        <div class="prod"/>
+                        <div class="name "> SAUVAGE </div>
+                        <img class="image" src="8.jpg"/> 
+                        <DIV class="price"> &100 </DIV>
+                        <div class="icons"> 
+                            <img src="heart.png" alt="" width="25px"/>
+                            <img src="letter.png" alt="" width="25px"/>
+                            <img src="basket.jpeg" alt="" width="25px"/>
+                        </div>
+                            <img class="new-icon" src="icon.png" alt="" width="50"/>
+                        </div>
+                        </div>
+                        </div>
+                       </div> 
